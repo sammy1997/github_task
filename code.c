@@ -11,7 +11,7 @@ int main()
     {
         if (number%i == 0)
         {
-            printf("%d ",i);
+            printf("%d\n",i);
         }
     }
 
